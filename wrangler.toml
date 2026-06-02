@@ -1,0 +1,6 @@
+name = "temp" # Sesuaikan dengan nama project Anda
+
+[[d1_databases]]
+binding = "temp"
+database_name = "temp"
+database_id = "9d07786f-0fe1-4310-abfe-5438349dc8c6"
